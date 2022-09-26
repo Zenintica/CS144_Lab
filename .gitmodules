@@ -1,0 +1,3 @@
+[submodule "lab_checkpoint_00/sponge"]
+	path = lab_checkpoint_00/sponge
+	url = https://github.com/cs144/sponge
